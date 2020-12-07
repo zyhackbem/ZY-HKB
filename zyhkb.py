@@ -72,7 +72,7 @@ def show_program():
 	print '''
                     %sINFORMATION%s
  ------------------------------------------------------
-    Author     José Fernando 'zyhackbem'
+    Author     José Fernando 'z9h5b'
     Name       ZY-HKB 'Information Facebook
     Email      zy-hkb@hotmail.com
 * if you find any errors or problems , please contact
