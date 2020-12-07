@@ -1,5 +1,9 @@
 # ZY-HKB
-Facebook Information
+
+
+# Facebook Information
+
+$ termux-setup-storage
 
 $ apt update && apt upgrade
 
