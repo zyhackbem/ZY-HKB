@@ -74,7 +74,10 @@ def show_program():
  ------------------------------------------------------
     Author     José Fernando 'z9h5b'
     Name       ZY-HKB 'Information Facebook
+    version    full version
+    Date       16/05/2018 09:35:12
     Email      zy-hkb@hotmail.com
+
 * if you find any errors or problems , please contact
   author
 '''%(G,W)
