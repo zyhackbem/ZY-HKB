@@ -70,6 +70,7 @@ def baliho():
 def show_program():
 
 	print '''
+
                     %sINFORMATION%s
  ------------------------------------------------------
     Author     José Fernando 'z9h5b'
@@ -77,6 +78,7 @@ def show_program():
     version    full version
     Date       16/05/2018 09:35:12
     Email      zy-hkb@hotmail.com
+
 
 * if you find any errors or problems , please contact
   author
