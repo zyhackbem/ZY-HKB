@@ -13,6 +13,6 @@ $ cd ZY-HKB
 
 $ pip2 install -r requirements.txt
 
-$ python2 ZyHkb.py
+$ python2 zyhkb.py
 
 $ help 
